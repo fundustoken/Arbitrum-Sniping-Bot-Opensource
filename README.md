@@ -14,8 +14,8 @@
 </p>
   
   <p>ALL CHAIN SNPING BOT: https://defix.app/product/all-chain-sniping-bot/</p>
-  <p>BSC Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</p>
-  <p>ETH sniping bot: https://github.com/Yapote/ETHEREUM-SNIPING-BOT-ETHX</p>
+  <p>BSC Sniping Bot version: https://github.com/DeFiProo/Pancakeswap-BSC-Sniping-Bot</p>
+  <p>ETH sniping bot: https://github.com/RayDefi/Ethereum-Sniping-Bot-Opensource</p>
  
  
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
