@@ -10,4 +10,5 @@
   "LP": "ETH",
   "OPL": "True",
   "DEX": "Camelot"
+  "POOL_FEE":"0.01"
 }
